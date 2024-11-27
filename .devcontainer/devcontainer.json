@@ -5,11 +5,7 @@
       "connectors": [
         {
           "type": "DockerRegistry",
-          "identifier": "testharnessjfrog"
-        },
-        {
-          "type": "Artifactory",
-          "identifier": "testartifactoryconnector"
+          "identifier": "testprivatedockerregistry"
         }
       ]
     }
