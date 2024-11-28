@@ -1,5 +1,5 @@
 {
-  "image": "docker.io/deepak2024bhatt/test-private-image-registry:latest",
+  "image": "deepak2024bhatt/devcontainer:dev-ubuntu-24.04",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
