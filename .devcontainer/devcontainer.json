@@ -4,8 +4,8 @@
     "harnessGitspaces": {
       "connectors": [
         {
-          "type": "DockerRegistry",
-          "identifier": "testprivatedockerregistry"
+          "type": "Artifactory",
+          "identifier": "testjfrogartifactorydockerimages"
         }
       ]
     }
