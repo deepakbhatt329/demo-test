@@ -1,5 +1,5 @@
 {
-  "image": "deepak2024bhatt/devcontainer:dev-ubuntu-24.04",
+  "image": "deepak2024bhatt/devcontainer:1.9.1-debug-image-513136",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
