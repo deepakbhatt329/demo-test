@@ -1,5 +1,5 @@
 {
-  "image": "deepak2024bhatt/devcontainer:dev-ubuntu",
+  "image": "harness-ken-docker-repo-1.jfrog.io/base:dev-ubuntu",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
