@@ -1,11 +1,11 @@
 {
-  "image": "harness-ken-docker-repo-1.jfrog.io/base:dev-ubuntu",
+  "image": "deepak2024bhatt/devcontainer:dev-ubuntu",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
         {
-          "type": "Artifactory",
-          "identifier": "testjfrogartifactorydockerimages"
+          "type": "DockerRegistry",
+          "identifier": "testaccountlevelconnector"
         }
       ]
     }
