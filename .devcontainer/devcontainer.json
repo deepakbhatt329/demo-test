@@ -1,11 +1,11 @@
 {
-  "image": "nexus3.dev.harness.io:4002/docker-private/ubuntu:test-cde",
+  "image": "deepak2024bhatt/devcontainer:dev-ubuntu",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
         {
           "type": "DockerRegistry",
-          "identifier": "testdockerconnectornexys"
+          "identifier": "account.testaccountlevelconnector"
         }
       ]
     }
