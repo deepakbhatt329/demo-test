@@ -5,7 +5,7 @@
       "connectors": [
         {
           "type": "DockerRegistry",
-          "identifier": "testcdeprivatedockerregistry"
+          "identifier": "account.testaccountlevelconnector"
         }
       ]
     }
