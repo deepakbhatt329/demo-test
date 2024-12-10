@@ -1,11 +1,11 @@
 {
-  "image": "ubuntu:latest",
+  "image": "harness-ken-docker-repo-1.jfrog.io/base:dev-ubuntu",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
         {
-          "type": "DockerRegistry",
-          "identifier": "testanonymousconnector"
+          "type": "Artifactory",
+          "identifier": "testjfrogprivaterepository"
         }
       ]
     }
