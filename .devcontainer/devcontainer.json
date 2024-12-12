@@ -1,11 +1,11 @@
 {
-  "image": "nexus3.dev.harness.io:4002/docker-private/ubuntu:test-cde",
+  "image": "211125722538.dkr.ecr.us-east-1.amazonaws.com/private-ubuntu:latest:latest",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
         {
-          "type": "DockerRegistry",
-          "identifier": "testnexus"
+          "type": "Aws",
+          "identifier": "testprivateecrregistry"
         }
       ]
     }
