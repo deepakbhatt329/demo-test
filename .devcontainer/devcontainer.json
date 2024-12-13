@@ -1,5 +1,5 @@
 {
-  "image": "211125722538.dkr.ecr.us-east-1.amazonaws.com/private-ubuntu:latest:latest",
+  "image": "211125722538.dkr.ecr.us-east-1.amazonaws.com/private-ubuntu:latest",
   "customizations": {
     "harnessGitspaces": {
       "connectors": [
