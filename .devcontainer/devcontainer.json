@@ -5,7 +5,7 @@
       "connectors": [
         {
           "type": "Aws",
-          "identifier": "account.testprivateecrregistry"
+          "identifier": "awstestconnectoraccesskey"
         }
       ]
     }
