@@ -1,13 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/java:1-21",
-  "customizations": {
-    "harnessGitspaces": {
-      "connectors": [
-        {
-          "type": "Aws",
-          "identifier": "awstestconnectoraccesskey"
-        }
-      ]
-    }
-  }
+  "image": "ubuntu:latest",
+  "forwardPorts": [3000]
 }
