@@ -1,4 +1,12 @@
 {
-  "image": "u:l",
-  "forwardPorts": [3000]
+  "image": "ubuntu:latest",
+  "customizations": {
+    "jetbrains": {
+      "plugins": [
+        "org.intellij.plugins.hcl",
+        "org.jetbrains.bazel",
+        "org.jetbrains.bsp"
+      ]
+    }
+  }
 }
