@@ -5,6 +5,7 @@
       "plugins": [
          "org.intellij.plugins.hcl",
          "org.jetbrains.bazel",
+         "org.jetbrains.bsp"
       ]
     }
   }
