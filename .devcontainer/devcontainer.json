@@ -3,7 +3,8 @@
   "customizations": {
     "jetbrains": {
       "plugins": [
-        "org.jetbrains.bazel"
+         "org.intellij.plugins.hcl",
+         "org.jetbrains.bazel",
       ]
     }
   }
