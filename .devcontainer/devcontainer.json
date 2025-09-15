@@ -1,12 +1,4 @@
 {
   "image": "mcr.microsoft.com/devcontainers/java:1-21",
-  "customizations": {
-    "jetbrains": {
-      "plugins": [
-         "org.intellij.plugins.hcl",
-         "org.jetbrains.bazel",
-         "org.jetbrains.bsp"
-      ]
-    }
-  }
+  "customizations": {}
 }
